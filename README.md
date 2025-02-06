@@ -22,7 +22,7 @@
   <h3>🛠 Skills</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,r,bash,git,docker,linux,vscode,github,aws,mysql,jupyter" />
+      <img src="https://skillicons.dev/icons?i=python,r,bash,git,linux,vscode,github,aws,mysql,jupyter" />
     </a>
   </p>
 </div>
