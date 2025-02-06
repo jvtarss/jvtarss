@@ -12,7 +12,7 @@
 
   <!-- repo card -->
   <a href="https://github.com/jvtarss/ccm-2024">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jvtarss&repo=nome-do-repositorio&bg_color=00000000&hide_border=true&theme=transparent&card_width=300&text_color=ffffff&title_color=ffffff" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jvtarss&repo=ccm-2024o&bg_color=00000000&hide_border=true&theme=transparent&card_width=300&text_color=ffffff&title_color=ffffff" />
   </a>
 
 
