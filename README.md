@@ -19,6 +19,7 @@
 
 <!-- skills  -->
 <div align="center">
+  <h3>Sills and tools</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,r,bash,git,linux,vscode,github,aws,mysql,jupyter" />
     </a>
