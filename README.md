@@ -12,7 +12,7 @@
 <!-- skills  -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,bash,git,linux,vscode,github,aws,mysql,jupyter" />
+    <img src="https://skillicons.dev/icons?i=python,r,bash,git,linux,vscode,github,mysql,jupyter" />
   </a>
 </div>
 
