@@ -10,10 +10,9 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvtarss&bg_color=00000000&hide_border=true&theme=transparent&layout=compact&langs_count=6&card_width=300&text_color=ffffff&title_color=ffffff" />
   </a>
 
-  <!-- repo card -->
+  <!-- Repo Card -->
   <a href="https://github.com/jvtarss/ccm-2024">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jvtarss&repo=ccm-2024o&bg_color=00000000&hide_border=true&theme=transparent&card_width=300&text_color=ffffff&title_color=ffffff" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jvtarss&repo=ccm-2024&bg_color=00000000&hide_border=true&theme=transparent&card_width=300&text_color=ffffff&title_color=ffffff" />
   </a>
-
 
 </div>
