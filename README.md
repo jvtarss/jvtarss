@@ -17,20 +17,22 @@
 
 </div>
 
+
+
+
 <!-- skills  -->
 <div align="center">
-  <h3>Skillset</h3>
-  <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,r,bash,git,linux,vscode,github,aws,mysql,jupyter" />
     </a>
   </p>
 </div>
 
+
+
+
 <!-- social buttons -->
 <div align="center">
-  <h3>Find me here</h3>
-  <p>
   <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/jo%C3%A3o-vitor-aires-teixeira-55b97b225/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
