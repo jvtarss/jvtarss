@@ -10,6 +10,7 @@
   </a>
 
 <!-- skills  -->
+### Techs and tools
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,bash,git,linux,vscode,github,mysql,jupyter" />
@@ -17,6 +18,7 @@
 </div>
 
 <!-- social buttons -->
+### Contact
 <div align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-aires-teixeira-55b97b225/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
